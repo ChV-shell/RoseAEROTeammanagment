@@ -1,0 +1,20 @@
+{
+  "name": "Rose E-Team Management",
+  "short_name": "RoseOps",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0F0F",
+  "theme_color": "#0F0F0F",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2552/2552801.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2552/2552801.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
